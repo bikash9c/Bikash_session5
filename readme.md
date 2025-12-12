@@ -1,4 +1,4 @@
-# MNIST Digit Classification with Lightweight CNN
+# MNIST Digit Classification with Modern Lightweight CNN
 
 ## 🎯 Project Overview
 
